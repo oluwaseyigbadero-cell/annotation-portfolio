@@ -1,0 +1,66 @@
+SOURCES AND PERMISSIONS
+Prepared: 22 September 2026
+
+Project: Video Object Tracking, DataLens Africa, project 9368.
+Task: 39800. Annotation: 14220.
+Source export: project-9368-at-2026-09-22-10-05-9681213f.json
+Source SHA-256: 6483e70a0cb2bb91cf7ca5a42105b582d6c5a3a424209061605f77f3c83e8dc7
+
+David confirmed that Joy may share all material from this DataLens project.
+David also confirmed that Joy created the seven tracks herself.
+This is a record of those confirmations, not a separate licence document.
+
+The original export is preserved in the local working files.
+Tracking data.json keeps the source task ID, video reference, annotation ID,
+and all track results. Unrelated account metadata is omitted from this copy.
+Annotations.csv contains the 108 original sequence positions.
+Display names T1 to T7 were added for easier reading.
+Class labels and decision reasons were not present in the source.
+
+Examples.pdf now contains selected images from the shared Drive video,
+with the source watermark retained, plus a table of saved track states.
+Earlier coordinate diagrams remain in the local preparation files.
+The original source video is included as 09d62315-d_1.mp4.
+It was downloaded through the signed-in DataLens page with Chrome DevTools MCP.
+The server returned HTTP 200 and video/mp4. File size: 2,824,478 bytes.
+A complete ffmpeg decode check passed. No video changes were made.
+Video: 640 x 360 pixels, 28.653625 seconds, 687 frames, 24000/1001 fps.
+Export: 716 frames; stored frame times use 25 fps. The reconstructed replay
+uses saved time. Joy still needs to review annotation accuracy and endings.
+The source video reference is /data/upload/9368/09d62315-d_1.mp4.
+
+Annotation guidelines.pdf is an export reading guide prepared with the
+portfolio. It is not the original DataLens project instruction document.
+
+Reference: Label Studio video object tracking documentation
+https://github.com/humansignal/label-studio/blob/develop/docs/source/templates/video_object_detector.md
+
+This permission record does not cover Joy's other confidential projects.
+
+Video with bounding boxes.mp4 is a local reconstruction from the original
+MP4 and Joy's exported coordinates. Track colors, labels, and a footer were
+added. Saved annotations were not corrected. See Bounding box replay notes.txt.
+
+DataLens editor recording.mp4 records the site's actual video and box
+layers during playback. It excludes all account and editor interface text.
+The recording was converted from WebM to MP4. No annotation edits were
+made. See DataLens recording notes.txt and DataLens recording checks.json.
+
+SHARED VIDEO LINK, ADDED 22 SEPTEMBER 2026
+https://drive.google.com/file/d/1gfWqeOKh5QUEbswsZnJli0MxZ908EdeH/view?usp=drive_link
+
+David supplied this link for the portfolio. The view page and MP4 download
+opened without sign-in. The shared file is 4,522,619 bytes, 624 x 352 pixels,
+and 28.866667 seconds. Shared portfolio video.mp4 is an exact local copy.
+SHA-256: af4dddb663855c6de6cd585e6447b2d9fcc182a63712ada1572c6c1466da9b20
+
+This copy differs from the local DataLens recording in size and resolution.
+A full decode check passed. Six samples show the scene, boxes, and original
+watermark. Some boxes remain after cars leave. See Shared video checks.json.
+No access settings or source annotations were changed for this update.
+
+PROJECT METHOD
+Project method.pdf and Project method.md explain the working method inferred
+from the video and saved coordinates. Recorded facts and interpretations are
+labelled separately. This is not the original assignment guide or a record
+of Joy's private reasons. Proposed track-ending corrections remain unperformed.
